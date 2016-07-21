@@ -188,6 +188,10 @@ easemob.SendFile£¨'zhang','c://aaa',
 
 (err)=>{alert(err);},    
 
-£©;   
+£©;
+
+
+
+this is just a test
 
 

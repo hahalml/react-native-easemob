@@ -191,9 +191,9 @@ easemob.SendFile£¨'zhang','c://aaa',
 £©;
 
 
-
-this is just a test1111
-this is just a test222
+this is just a test3
+this is just a test1
+this is just a test2
 
 
 

@@ -191,6 +191,6 @@ easemob.SendFile£¨'zhang','c://aaa',
 £©;
 
 
-zhangbingchen
+zhangbingchen111
 
 
